@@ -1,0 +1,2 @@
+# Sử dụng Brute Force 
+
